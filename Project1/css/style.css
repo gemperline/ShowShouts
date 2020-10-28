@@ -1,0 +1,52 @@
+.addShowBtn {
+    color: #0085A1;
+    background-color: #ffffff;
+    border-color: #0085A1;
+    max-height: 100px;
+    left: 15%;
+    position: absolute;
+    font-size: 14px;
+    font-weight: 800;
+    padding: 15px 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border-radius: 0;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    margin-top: 0px;
+    transition: all 0.2s;
+}
+.addShowBtn:hover, .addShowBtn:focus, .addShowBtn:active {
+  color: #fff;
+  background-color: #00657b !important;
+  border-color: #00657b !important;
+}
+
+#modal-title {
+  text-align: center !important;
+}
+
+.event-thumbnail {
+  max-width: 200px;
+  width: 100%;
+  position: relative;
+  height: 200px;
+  object-fit: cover;
+}
+.post-text {
+  position: relative;
+  margin: 0 20px;
+  display: inline-block;
+  width: 100%;
+}
+.pub-info {
+  position: absolute;
+  font-size: 18px;
+  font-style: italic;
+  margin: 0;
+  color: #868e96;
+  bottom: 0;
+  width: 100%;
+}
+.mg-y {
+  margin: 30px 0px;
+}
