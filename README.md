@@ -1,2 +1,2 @@
 # ShowShouts
- Live music review website
+ Live music reviews website
